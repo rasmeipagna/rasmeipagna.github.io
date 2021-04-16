@@ -13,9 +13,8 @@ Curious, dedicated and detail-oriented, I'm always looking for opportunities to 
 Technologies I like and use daily: HTML & CSS/SCSS, jQuery, JavaScript, PHP, React, Node.js.
 <br>
 Please feel free to checkout out my completed projects:
-My first eshop <a href="#" target="_blank">https://github.com/rasmeipagna/lokisalle-eshop</a>,
-my second eshop<a href="#" target="_blank">https://github.com/rasmeipagna/helloeyes-eshop</a> and
-the Pokedex <a href="#" target="_blank">https://github.com/rasmeipagna/pokemon-evolution</a>
+My first eshop <a href="https://rasmeipagna.github.io/helloeyes" target="_blank">Hello Eyes</a>,
+the OX Game <a href="https://rasmeipagna.github.io/ox-game" target="_blank">OX game</a>
 <br>
 You can also visit my other profiles here: 
 <a href="https://www.linkedin.com/in/rasmei-pagna-toung" target="_blank">LinkedIn</a> 
