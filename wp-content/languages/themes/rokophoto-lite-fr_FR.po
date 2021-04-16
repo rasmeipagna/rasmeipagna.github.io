@@ -1,0 +1,339 @@
+# Translation of RokoPhoto Lite in French (France)
+# This file is distributed under the same license as the RokoPhoto Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-30 07:49:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: RokoPhoto Lite\n"
+
+#. Description of the plugin/theme
+msgid "RokoPhoto Lite is an elegant WordPress theme for photographers, writers, and bloggers. This design focuses on your content and is perfect for an elegant blog site."
+msgstr "RokoPhoto Lite est un thème WordPress élégant pour les photographes, les écrivains et les blogueurs. Son design se concentre sur votre contenu et est parfait pour un blog élégant."
+
+#: footer.php:47
+msgid "Google+"
+msgstr "Google+"
+
+#: footer.php:51
+msgid "Instagram"
+msgstr "Instagram"
+
+#: footer.php:35
+msgid "Behance"
+msgstr "Behance"
+
+#: footer.php:39
+msgid "Dribbble"
+msgstr "Dribble"
+
+#: footer.php:43
+msgid "Flickr"
+msgstr "Flickr"
+
+#: footer.php:31
+msgid "Twitter"
+msgstr "Twitter"
+
+#: footer.php:27
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:518
+msgid "Sidebar top"
+msgstr "Barre du haut"
+
+#: functions.php:520 functions.php:529
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr "Les widgets de cette zone seront affichés sur tous les articles et pages."
+
+#: functions.php:527
+msgid "Sidebar bottom"
+msgstr "Barre du bas"
+
+#: loop-meta.php:60
+msgid "Ouch!"
+msgstr "Aïe&nbsp;!"
+
+#: loop-meta.php:56
+msgid "Archives"
+msgstr "Archives"
+
+#: loop-meta.php:49
+msgid "Y"
+msgstr "Y"
+
+#: header.php:60
+msgid "Welcome to"
+msgstr "Bienvenue sur"
+
+#: loop-meta.php:11
+msgid "Home / <a href=\"%2$s\">%1$s</a> / %3$s"
+msgstr "Accueil / <a href=\"%2$s\">%1$s</a> / %3$s"
+
+#: loop-meta.php:15 loop-meta.php:21
+msgid "Home / %1$s"
+msgstr "Accueil / %1$s"
+
+#: loop-meta.php:39
+msgid "Posts By: %1$s"
+msgstr "Article par : %1$s"
+
+#: loop-meta.php:45
+msgid "F d, Y"
+msgstr "j F Y"
+
+#: loop-meta.php:47
+msgid "F Y"
+msgstr "F Y"
+
+#: functions.php:504
+msgid "View PRO version"
+msgstr "Voir la version Pro"
+
+#: functions.php:505
+msgid "Leave us a review(it will help us)"
+msgstr "Laissez votre avis (cela nous aidera)"
+
+#: header.php:27
+msgid "Toggle Navigation"
+msgstr "Afficher/masquer la navigation"
+
+#: functions.php:488
+msgid "Footer Copyrights"
+msgstr "Copyrights du pied"
+
+#: functions.php:503
+msgid "Documentation"
+msgstr "Documentation"
+
+#: functions.php:399
+msgid "Behance URL"
+msgstr "URL Behance"
+
+#: functions.php:412
+msgid "Dribbble URL"
+msgstr "URL Dribble"
+
+#: functions.php:425
+msgid "Flickr URL"
+msgstr "URL Flickr"
+
+#: functions.php:438
+msgid "Google + URL"
+msgstr "URL Google+"
+
+#: functions.php:451
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: functions.php:386
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: functions.php:321
+msgid "Site Logo Image"
+msgstr "Image de logo du site"
+
+#: functions.php:334
+msgid "Sub-Header Title"
+msgstr "Titre de sous en-Tête"
+
+#: functions.php:347
+msgid "Social Box Label"
+msgstr "Libellé de boîte sociale"
+
+#: functions.php:360
+msgid "Social Box Text"
+msgstr "Texte de boîte sociale"
+
+#: functions.php:373
+msgid "Facebook URL"
+msgstr "URL FaceBook"
+
+#: functions.php:214
+msgid "Sub-Header"
+msgstr "Sous en-tête"
+
+#: functions.php:219
+msgid "Frontpage: Slider"
+msgstr "Accueil : Diaporama"
+
+#: functions.php:234
+msgid "Frontpage: Vision"
+msgstr "Accueil : Vision"
+
+#: functions.php:249
+msgid "Frontpage: Portfolio"
+msgstr "Accueil : Portfolio"
+
+#: functions.php:264
+msgid "Frontpage: Ribbon"
+msgstr "Accueil : Ruban"
+
+#: functions.php:279
+msgid "Frontpage: About us"
+msgstr "Accueil : à propos de nous"
+
+#: functions.php:294
+msgid "Frontpage: Contact"
+msgstr "Accueil : Contact"
+
+#: functions.php:311
+msgid "Footer"
+msgstr "Pied"
+
+#: functions.php:168
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Slider on frontpage!"
+msgstr "Commandez la <a href=\"https://themeisle.com/themes/rokophoto/\">version PRO</a> pour ajouter un diaporama sur l'accueil !"
+
+#: functions.php:175
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Vision Slider on frontpage!"
+msgstr "Commandez la <a href=\"https://themeisle.com/themes/rokophoto/\">version PRO</a> pour ajouter un diaporama Vision sur l'accueil !"
+
+#: functions.php:182
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Portfolio section on frontpage!"
+msgstr "Commandez la <a href=\"https://themeisle.com/themes/rokophoto/\">version PRO</a> pour ajouter une section portfolio sur l'accueil !"
+
+#: functions.php:189
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Ribbon section on frontpage!"
+msgstr "Commandez la <a href=\"https://themeisle.com/themes/rokophoto/\">version PRO</a> pour ajouter une section ruban sur l'accueil !"
+
+#: functions.php:196
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add an About us section on frontpage!"
+msgstr "Commandez la <a href=\"https://themeisle.com/themes/rokophoto/\">version PRO</a> pour ajoutrer une section à propos de nous sur l'accueil !"
+
+#: functions.php:203
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Contact section on frontpage!"
+msgstr "Commandez la <a href=\"https://themeisle.com/themes/rokophoto/\">version PRO</a> pour ajouter une section de contact sur l'accueil !"
+
+#: functions.php:209
+msgid "Site Logo"
+msgstr "Logo du site"
+
+#: functions.php:139
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#: functions.php:134
+msgid "on"
+msgstr "On"
+
+#: functions.php:133
+msgid "%s"
+msgstr "%s"
+
+#: functions.php:102
+msgid "Home"
+msgstr "Accueil"
+
+#: footer.php:6
+msgid "Follow Me"
+msgstr "Suivez moi"
+
+#: footer.php:7
+msgid "To get the latest update of me and my works"
+msgstr "Pour obtenir les dernières mises à jour de mes travaux"
+
+#: footer.php:67
+msgid "RokoPhoto Lite. All Rights Reserved"
+msgstr "RokoPhotLite. Tous droits réservés."
+
+#. #-#-#-#-#  rokophoto-lite.pot (RokoPhoto Lite 1.1.4)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: footer.php:67
+msgid "RokoPhoto Lite"
+msgstr "RokoPhoto Lite"
+
+#: footer.php:67
+msgid " powered by"
+msgstr "propulsé par"
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: content.php:22
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: content-single.php:7 content.php:7
+msgid "Post By:"
+msgstr "Article par&nbsp;:"
+
+#: content-single.php:8 content.php:8
+msgid "Date:"
+msgstr "Date&nbsp;:"
+
+#: content-single.php:9 content.php:9
+msgid "Category:"
+msgstr "Catégorie&nbsp;:"
+
+#: content-none.php:11
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: content-none.php:8
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des mots différents."
+
+#: content-none.php:6
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre 1er article ? <a href=\"%1$s\">Lancez vous ici</a>."
+
+#: comments.php:76
+msgid "Your Website"
+msgstr "Votre site"
+
+#: comments.php:83
+msgid "Your Message"
+msgstr "Votre message"
+
+#: content-none.php:4
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: comments.php:72
+msgid "Your Email"
+msgstr "Votre email"
+
+#: comments.php:68
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires plus anciens"
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:20
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+msgstr[1] "%1$s réflexions au sujet de &laquo;&nbsp;%2$s&nbsp;&raquo;"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/rokophoto-lite/"
+msgstr "https://themeisle.com/themes/rokophoto-lite/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
