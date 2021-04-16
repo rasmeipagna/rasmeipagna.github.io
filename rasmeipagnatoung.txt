@@ -1,6 +1,6 @@
 <span id="a">rasmeipagna@toung</span>:<span id="b">~</span><span id="c">$</span> cd RasmeiPagnaToung/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">rasmeipagna@toung</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnatoung].txt<br/><br/>
-My favorite quote: "<span id="k">I am learning to understand rather than immediately judge or to be judged.</span>". <!-- sjkfhskjf -->
+My favorite quote: "<span id="k1">I am learning to understand rather than immediately judge or to be judged.</span>". <!-- sjkfhskjf -->
 
 Hi there! I am Rasmei-Pagna Toung.
 
@@ -10,7 +10,7 @@ Since I coded my first 'Hello World' a few years ago, I’ve become addicted to 
 
 Curious, dedicated and detail-oriented, I'm always looking for opportunities to keep improving and craft the best digital experiences.
 
-Technologies I like and use daily: HTML & CSS/SCSS, jQuery, JavaScript, PHP, React, Node.js.
+Technologies I like and use daily: HTML/CSS/SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP native, React.js, Node.js, CMS Wordpress
 <br>
 Please feel free to checkout out my completed projects:
 My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="_blank">Hello Eyes</a>,
