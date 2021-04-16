@@ -1,0 +1,50 @@
+body {
+	background-color: #000;
+}
+
+#console {
+	font-family: 'Roboto Mono', courier, monospace;
+	color: #fff;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	font-size: 16px;
+}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+a:last-child {
+  color: #fff;
+}
+
+#a {
+	color: #E6598B;
+}
+
+#k {
+  animation: change 1s;
+}
+.k2{
+	animation: change 1s;
+	color:  #F3C87A;
+}
+
+@keyframes change {
+  0%  { color:  #F3C87A; }
+  50% { color:  #F3C87A; }
+  99% { color: black; }
+}
+/* COUNTDOWN */
+span#demo {
+	text-align: center;
+	font-size: 16px;
+	margin-top: 0px;
+	color:#fff;
+  }
+
+
+  

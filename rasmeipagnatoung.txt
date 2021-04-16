@@ -1,0 +1,29 @@
+<span id="a">rasmeipagna@toung</span>:<span id="b">~</span><span id="c">$</span> cd RasmeiPagnaToung/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">rasmeipagna@toung</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnatoung].txt<br/><br/>
+My favorite quote: "<span id="k">I am learning to understand rather than immediately judge or to be judged.</span>". <!-- sjkfhskjf -->
+
+Hi there! I am Rasmei-Pagna Toung.
+
+I am human now working in front-end development.
+
+Since I coded my first 'Hello World' a few years ago, I’ve become addicted to creative problem-solving and bringing new ideas to life.
+
+Curious, dedicated and detail-oriented, I'm always looking for opportunities to keep improving and craft the best digital experiences.
+
+Technologies I like and use daily: HTML & CSS/SCSS, jQuery, JavaScript, PHP, React, Node.js.
+<br>
+Please feel free to checkout out my completed projects:
+My first eshop <a href="#" target="_blank">https://github.com/rasmeipagna/lokisalle-eshop</a>,
+my second eshop<a href="#" target="_blank">https://github.com/rasmeipagna/helloeyes-eshop</a> and
+the Pokedex <a href="#" target="_blank">https://github.com/rasmeipagna/pokemon-evolution</a>
+<br>
+You can also visit my other profiles here: 
+<a href="https://www.linkedin.com/in/rasmei-pagna-toung" target="_blank">LinkedIn</a> 
+<a href="https://github.com/rasmeipagna" target="_blank">Github</a>
+
+I code since <span id="demo" class="k2"></span>
+
+<br>
+Looking forward to hearing from you!</p>
+<br>
+Copyright (c) 2016 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
