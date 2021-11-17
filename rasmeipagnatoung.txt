@@ -35,3 +35,4 @@ Rasmei-Pagna Fouilleul - Front-End Web Developer
 
 
 Copyright (c) 2016 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
+</p>
