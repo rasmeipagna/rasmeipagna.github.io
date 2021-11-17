@@ -1,6 +1,6 @@
 <span id="a">rasmeipagna@fouilleul</span>:<span id="b">~</span><span id="c">$</span> cd RasmeiPagnaFouilleul/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">rasmeipagna@fouilleul</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnafouilleul].txt<br/><br/>
-My favorite quote: "<span id="k1">I am learning to understand rather than immediately judge or to be judged.</span>". <!-- sjkfhskjf -->
+My favorite quote: "<span id="k1">I am learning to understand rather than immediately judge or to be judged</span>". <!-- sjkfhskjf -->
 
 Hi there! I am Rasmei-Pagna (Toung) Fouilleul.
 
@@ -30,6 +30,5 @@ I code since <span id="demo" class="k2"></span>
 Looking forward to hearing from you!
 
 Rasmei-Pagna Fouilleul - Front-End Web Developer
-
 Copyright (c) 2016 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
 </p>
