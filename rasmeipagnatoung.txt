@@ -17,7 +17,7 @@ My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="
 the OX Game <a href="https://rasmeipagna.github.io/ox-game/" target="_blank">OX game</a>
 <br>
 You can also visit my other profiles here: 
-<a href="https://www.linkedin.com/in/rasmei-pagna-toung" target="_blank">LinkedIn</a> 
+<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a> 
 <a href="https://github.com/rasmeipagna" target="_blank">Github</a>
 
 I code since <span id="demo" class="k2"></span>
@@ -27,7 +27,7 @@ Looking forward to hearing from you!
 <br>
 
 Rasmei-Pagna Fouilleul - Front-End Web Developer
-<br>
+
 </p>
 
 Copyright (c) 2016 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
