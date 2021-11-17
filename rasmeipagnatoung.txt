@@ -16,9 +16,9 @@ Please feel free to checkout out my completed projects:
 My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="_blank">Hello Eyes</a>,
 the OX Game <a href="https://rasmeipagna.github.io/ox-game/" target="_blank">OX game</a>
 <br>
-I've also worked on several institutional website :
+I've also worked on several institutional websites :
 <a href="https://www.epitech.eu/" target="_blank">Epitech</a>, <a href="https://www.supbiotech.fr/" target="_blank">Sup'Biotech</a>, <a href="https://www.ipsa.fr/" target="_blank">IPSA</a>,
-And most of them from :
+and all of them from :
 <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
 <br>
 You can also visit my other profiles here:
@@ -27,7 +27,6 @@ You can also visit my other profiles here:
 
 I code since <span id="demo" class="k2"></span>
 
-<br>
 Looking forward to hearing from you!
 <br>
 
