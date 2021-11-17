@@ -1,6 +1,6 @@
-# rasmeipagnafouilleul.github.io
+# rasmeipagna.github.io
 Hi, here's my website !
 
-https://rasmeipagnafouilleul.github.io/
+https://rasmeipagna.github.io/
 
 Contact :rasmeipagna.toung@gmail.com
