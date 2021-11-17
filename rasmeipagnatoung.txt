@@ -16,8 +16,14 @@ Please feel free to checkout out my completed projects:
 My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="_blank">Hello Eyes</a>,
 the OX Game <a href="https://rasmeipagna.github.io/ox-game/" target="_blank">OX game</a>
 <br>
-You can also visit my other profiles here: 
-<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a> 
+I've also worked on several institutional website :
+<a href="https://www.supbiotech.fr/" target="_blank">Sup'Biotech</a>,
+<a href="https://www.securesphere.fr/" target="_blank">Securesphere</a>,
+and most of them :
+<a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
+<br>
+You can also visit my other profiles here:
+<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>
 <a href="https://github.com/rasmeipagna" target="_blank">Github</a>
 
 I code since <span id="demo" class="k2"></span>
