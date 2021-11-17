@@ -25,13 +25,9 @@ I code since <span id="demo" class="k2"></span>
 <br>
 Looking forward to hearing from you!
 <br>
-<<<<<<< HEAD:rasmeipagnafouilleul.txt
 
 Rasmei-Pagna Fouilleul - Front-End Web Developer
 <br>
 </p>
 
->>>>>>> parent of 5a783e5 (update nam + news):rasmeipagnatoung.txt
-=======
->>>>>>> parent of 5a783e5 (update nam + news):rasmeipagnatoung.txt
 Copyright (c) 2016 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
