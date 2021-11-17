@@ -1,23 +1,23 @@
-<span id="a">rasmeipagna@fouilleul</span>:<span id="b">~</span><span id="c">$</span> cd RasmeiPagnaFouilleul/<!-- laglaglaglaglaglag -->About_Me
-<span id="a">rasmeipagna@fouilleul</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnafouilleul].txt<br/><br/>
+<span id="a">rasmeipagna@toung</span>:<span id="b">~</span><span id="c">$</span> cd RasmeiPagnaToung/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">rasmeipagna@toung</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnatoung].txt<br/><br/>
 My favorite quote: "<span id="k1">I am learning to understand rather than immediately judge or to be judged.</span>". <!-- sjkfhskjf -->
 
-Hi there! I am Rasmei-Pagna Fouilleul.
+Hi there! I am Rasmei-Pagna Toung.
 
 I am human now working in front-end development.
 
-Since I coded my first 'Hello World' in 2015, I’ve become addicted to creative problem-solving and bringing new ideas to life.
+Since I coded my first 'Hello World' a few years ago, I’ve become addicted to creative problem-solving and bringing new ideas to life.
 
 Curious, dedicated and detail-oriented, I'm always looking for opportunities to keep improving and craft the best digital experiences.
 
-Technologies I like and use daily: HTML/CSS/SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP, React.js, Node.js, Wordpress, Drupal
+Technologies I like and use daily: HTML/CSS/SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP native, React.js, Node.js, CMS Wordpress
 <br>
 Please feel free to checkout out my completed projects:
 My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="_blank">Hello Eyes</a>,
 the OX Game <a href="https://rasmeipagna.github.io/ox-game/" target="_blank">OX game</a>
 <br>
 You can also visit my other profiles here: 
-<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a> 
+<a href="https://www.linkedin.com/in/rasmei-pagna-toung" target="_blank">LinkedIn</a> 
 <a href="https://github.com/rasmeipagna" target="_blank">Github</a>
 
 I code since <span id="demo" class="k2"></span>
@@ -25,7 +25,10 @@ I code since <span id="demo" class="k2"></span>
 <br>
 Looking forward to hearing from you!
 <br>
+<<<<<<< HEAD:rasmeipagnafouilleul.txt
 Rasmei-Pagna Fouilleul - Front-End Web Developer
 <br>
 </p>
+=======
+>>>>>>> parent of 5a783e5 (update nam + news):rasmeipagnatoung.txt
 Copyright (c) 2016 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
