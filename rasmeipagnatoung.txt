@@ -21,7 +21,7 @@ and all of them from :
 <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
 <br>
 You can also visit my other profiles here:
-<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>, <a href="https://github.com/rasmeipagna" target="_blank">Github</a>
+<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>, <a href="https://github.com/rasmeipagna" target="_blank">Github</a>, <a href="https://soundcloud.com/rasmei-pagna-chhun" target="_blank">Souncloud</a>
 
 I code since <span id="demo" class="k2"></span>
 
