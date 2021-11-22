@@ -13,7 +13,7 @@ Curious, dedicated and detail-oriented, I'm always looking for opportunities to 
 Technologies I like and use daily: HTML/CSS, SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP native, React.js, Node.js, Wordpress, Drupal
 <br>
 Please feel free to checkout out my completed projects:
-My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="_blank">Hello Eyes</a>, the OX Game <a href="https://rasmeipagna.github.io/ox-game/" target="_blank">OX game</a>
+My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="_blank">Hello Eyes</a>, the <a href="https://rasmeipagna.github.io/ox-game/" target="_blank">OX game</a>
 <br>
 I've also worked on several institutional websites :
 <a href="https://www.isg.fr/" target="_blank">ISG</a>, <a href="https://www.supbiotech.fr/" target="_blank">Sup'Biotech</a>, <a href="https://www.ipsa.fr/" target="_blank">IPSA</a>. And all of them from <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
