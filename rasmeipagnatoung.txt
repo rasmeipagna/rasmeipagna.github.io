@@ -10,7 +10,7 @@ Since I coded my first 'Hello World' in 2015, I’ve become addicted to creative
 
 Curious, dedicated and detail-oriented, I'm always looking for opportunities to keep improving and craft the best digital experiences.
 
-Technologies I like and use daily: HTML/CSS, SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP native, React.js, Node.js, Wordpress, Drupal
+Technologies I like and use : HTML/CSS, SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP native, React.js, Node.js, Wordpress, Drupal
 <br>
 Please feel free to checkout out my completed projects:
 My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="_blank">Hello Eyes</a>, the <a href="https://rasmeipagna.github.io/ox-game/" target="_blank">OX game</a>
