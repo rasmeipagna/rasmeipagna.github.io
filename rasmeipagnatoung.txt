@@ -27,5 +27,5 @@ I code since <span id="demo" class="k2"></span>
 Looking forward to hearing from you!
 
 Rasmei-Pagna Fouilleul - Front-End Web Developer
-Copyright (c) 2016 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
+Copyright (c) 2016-2022 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
 </p>
