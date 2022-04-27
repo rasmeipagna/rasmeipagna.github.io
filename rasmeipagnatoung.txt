@@ -4,7 +4,7 @@ My favorite quote: "<span id="k1">If you phone a psychic and she doesn't answer 
 
 Hi there! I am Rasmei-Pagna (Toung) Fouilleul.
 
-I am human now working in front-end development.
+I am human working in front-end development.
 
 Since I coded my first 'Hello World' in 2015, I’ve become addicted to creative problem-solving and bringing new ideas to life.
 
