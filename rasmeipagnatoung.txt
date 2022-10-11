@@ -1,8 +1,8 @@
-<span id="a">rasmeipagna@toungfouilleul/span>:<span id="b">~</span><span id="c">$</span> cd RasmeiPagnaToungFouilleul/<!-- laglaglaglaglaglag -->About_Me
-<span id="a">rasmeipagna@toung fouilleul</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnatoungfouilleul].txt<br/><br/>
+<span id="a">rasmeipagna@fouilleul</span>:<span id="b">~</span><span id="c">$</span> cd RasmeiPagnaFouilleul/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">rasmeipagna@fouilleul</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnafouilleul].txt<br/><br/>
 My favorite quote: "<span id="k1">If you phone a psychic and she doesn't answer the phone before it rings, hang up.</span>" - JCVD. <!-- sjkfhskjf -->
 
-Hi there! I am Rasmei-Pagna Toung Fouilleul.
+Hi there! I am Rasmei-Pagna (Toung) Fouilleul.
 
 I am human working in front-end development.
 
@@ -19,7 +19,7 @@ I've also worked on several institutional websites :
 <a href="https://www.isg.fr/" target="_blank">ISG</a>, <a href="https://www.supbiotech.fr/" target="_blank">Sup'Biotech</a>, <a href="https://www.ipsa.fr/" target="_blank">IPSA</a>. And all of them from <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
 <br>
 You can also visit my other profiles here:
-<a href="https://www.linkedin.com/in/pagna-toung-fouilleul" target="_blank">LinkedIn</a>, <a href="https://github.com/rasmeipagna" target="_blank">Github</a>, <a href="https://soundcloud.com/rasmei-pagna-chhun" target="_blank">Souncloud</a>, <a href="https://unsplash.com/@pagna_chhun" target="_blank">Unsplash</a>,
+<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>, <a href="https://github.com/rasmeipagna" target="_blank">Github</a>, <a href="https://soundcloud.com/rasmei-pagna-chhun" target="_blank">Souncloud</a>, <a href="https://unsplash.com/@pagna_chhun" target="_blank">Unsplash</a>,
 <a href="https://codepen.io/rasmeipagna" target="_blank">Codepen</a>
 
 I code since <span id="demo" class="k2"></span>
