@@ -18,8 +18,7 @@ I've also worked on several institutional websites :
 Most of all websites from <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
 <br>
 You can also visit my other profiles here:
-<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>, <a href="https://soundcloud.com/rasmei-pagna-chhun" target="_blank">Souncloud</a>, <a href="https://unsplash.com/@pagna_chhun" target="_blank">Unsplash</a>,
-<a href="https://codepen.io/rasmeipagna" target="_blank">Codepen</a>
+<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>, <a href="https://soundcloud.com/rasmei-pagna-chhun" target="_blank">Souncloud</a>, <a href="https://unsplash.com/@pagna_chhun" target="_blank">Unsplash</a>, <a href="https://codepen.io/rasmeipagna" target="_blank">Codepen</a>
 
 I code since <span id="demo" class="k2"></span>
 
