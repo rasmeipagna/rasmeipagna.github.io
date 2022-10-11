@@ -2,7 +2,7 @@
 <span id="a">rasmeipagna@fouilleul</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[rasmeipagnafouilleul].txt<br/><br/>
 My favorite quote: "<span id="k1">If you phone a psychic and she doesn't answer the phone before it rings, hang up.</span>" - JCVD. <!-- sjkfhskjf -->
 
-Hi there! I am Rasmei-Pagna (Toung) Fouilleul.
+Hi there! I am Rasmei-Pagna Toung Fouilleul.
 
 I am human working in front-end development.
 
@@ -10,22 +10,21 @@ Since I coded my first 'Hello World' in 2015, I’ve become addicted to creative
 
 Curious, dedicated and detail-oriented, I'm always looking for opportunities to keep improving and craft the best digital experiences.
 
-Technologies I like and use : HTML/CSS, SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP native, React.js, Node.js, Wordpress, Drupal
+Technologies I like and use : HTML/CSS, SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP native, Python, React.js, Node.js, Wordpress, Drupal
 <br>
-Please feel free to checkout out my completed projects:
-My first eshop <a href="https://github.com/rasmeipagna/helloeyes-eshop" target="_blank">Hello Eyes</a>, the <a href="https://rasmeipagna.github.io/ox-game/" target="_blank">OX game</a>
+Please feel free to checkout out my completed projects on <a href="https://github.com/rasmeipagna" target="_blank">Github</a>
 <br>
 I've also worked on several institutional websites :
-<a href="https://www.isg.fr/" target="_blank">ISG</a>, <a href="https://www.supbiotech.fr/" target="_blank">Sup'Biotech</a>, <a href="https://www.ipsa.fr/" target="_blank">IPSA</a>. And all of them from <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
+Most of all websites from <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
 <br>
 You can also visit my other profiles here:
-<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>, <a href="https://github.com/rasmeipagna" target="_blank">Github</a>, <a href="https://soundcloud.com/rasmei-pagna-chhun" target="_blank">Souncloud</a>, <a href="https://unsplash.com/@pagna_chhun" target="_blank">Unsplash</a>,
+<a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>, <a href="https://soundcloud.com/rasmei-pagna-chhun" target="_blank">Souncloud</a>, <a href="https://unsplash.com/@pagna_chhun" target="_blank">Unsplash</a>,
 <a href="https://codepen.io/rasmeipagna" target="_blank">Codepen</a>
 
 I code since <span id="demo" class="k2"></span>
 
 Looking forward to hearing from you!
 
-Rasmei-Pagna Fouilleul - Front-End Web Developer
+Rasmei-Pagna Toung Fouilleul - Full Stack Web Developer/Webmaster
 Copyright (c) 2016-2022 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
 </p>
