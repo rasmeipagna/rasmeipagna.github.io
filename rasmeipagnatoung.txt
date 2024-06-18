@@ -14,8 +14,7 @@ Technologies I like and use : HTML/CSS, SCSS, Sass, Bootstrap, jQuery, JavaScrip
 <br>
 Please feel free to checkout out my completed projects on <a href="https://github.com/rasmeipagna" target="_blank">Github</a>
 <br>
-I've also worked on several institutional websites :
-Most of all websites from <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
+I used to work for private schools : IONIS Group, EM Normandie Caen
 <br>
 Now I'm working at <a href="https://www.kanta.fr/" target="_blank">Kanta</a> as a Product Manager/Owner
 You can also visit my other profiles here:
