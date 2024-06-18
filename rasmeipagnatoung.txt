@@ -7,9 +7,7 @@ Hi there! I am Rasmei-Pagna Toung Fouilleul.
 I am human working in front-end development.
 
 Since I coded my first 'Hello World' in 2015, I’ve become addicted to creative problem-solving and bringing new ideas to life.
-
 Curious, dedicated and detail-oriented, I'm always looking for opportunities to keep improving and craft the best digital experiences.
-
 Technologies I like and use : HTML/CSS, SCSS, Sass, Bootstrap, jQuery, JavaScript, PHP native, Python, React.js, Node.js, Wordpress, Drupal
 <br>
 Please feel free to checkout out my completed projects on <a href="https://github.com/rasmeipagna" target="_blank">Github</a>
