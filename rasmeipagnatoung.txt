@@ -17,7 +17,7 @@ Please feel free to checkout out my completed projects on <a href="https://githu
 I've also worked on several institutional websites :
 Most of all websites from <a href="https://www.ionis-group.com/" target="_blank">IONIS Education Group</a>
 <br>
-Now I'm working at <a href="https://www.em-normandie.com/fr" target="_blank">EM Normandie Business School</a> as a Webmaster
+Now I'm working at <a href="https://www.kanta.fr/" target="_blank">Kanta</a> as a Product Manager/Owner
 You can also visit my other profiles here:
 <a href="https://www.linkedin.com/in/rasmei-pagna-fouilleul" target="_blank">LinkedIn</a>, <a href="https://soundcloud.com/rasmei-pagna-chhun" target="_blank">Souncloud</a>, <a href="https://unsplash.com/@pagna_chhun" target="_blank">Unsplash</a>, <a href="https://codepen.io/rasmeipagna" target="_blank">Codepen</a>
 
@@ -25,6 +25,6 @@ I code since <span id="demo" class="k2"></span>
 
 Looking forward to hearing from you!
 
-Rasmei-Pagna Toung Fouilleul - Full Stack Web Developer/Webmaster
-Copyright (c) 2016-2023 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
+Rasmei-Pagna Toung Fouilleul - Product Manager Ex Front-End Web Developer
+Copyright (c) 2016-2024 <a href="https://github.com/CodeNerve/CodeNerve.github.io" target="_blank">CodeNerve</a>.
 </p>
